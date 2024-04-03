@@ -1,5 +1,4 @@
 import { Pagination } from '../Pagination/pagination'
-
 import { ApiReq } from '../utils/peticion'
 import './locations.css'
 

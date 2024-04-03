@@ -13,7 +13,6 @@ export const Characters = async () => {
   for (const character of characters) {
     divCharacters.innerHTML += Character(character)
   }
-
   main.append(divCharacters)
   main.append(Pagination(charcatersPage))
 }
